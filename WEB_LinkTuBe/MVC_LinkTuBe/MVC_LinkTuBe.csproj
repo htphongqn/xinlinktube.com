@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{07E88515-C7D4-4D49-A7E9-96628889E2CD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MVC_LinkTuBe</RootNamespace>
+    <AssemblyName>MVC_LinkTuBe</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.60919.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentArt.Web.UI, Version=2010.1.2637.35, Culture=neutral, PublicKeyToken=9bc9f846553156bb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ComponentArt.Web.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.ASPxEditors.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.ASPxTreeList.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Web.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v12.1, Version=12.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Intelligencia.UrlRewriter, Version=2.0.0.9, Culture=neutral, PublicKeyToken=0573f3650687980d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Intelligencia.UrlRewriter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MSCaptcha, Version=4.0.4250.31585, Culture=neutral, PublicKeyToken=b9ff12f28cdcf412, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\MSCaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="vpro.functions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\vpro.functions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\ComponentArt.Web.UI.dll" />
+    <Content Include="bin\Controller.dll" />
+    <Content Include="bin\Controller.pdb" />
+    <Content Include="bin\DevExpress.Data.v12.1.dll" />
+    <Content Include="bin\DevExpress.Web.ASPxEditors.v12.1.dll" />
+    <Content Include="bin\DevExpress.Web.ASPxTreeList.v12.1.dll" />
+    <Content Include="bin\DevExpress.Web.v12.1.dll" />
+    <Content Include="bin\Intelligencia.UrlRewriter.dll" />
+    <Content Include="bin\Model.dll" />
+    <Content Include="bin\Model.pdb" />
+    <Content Include="bin\MSCaptcha.dll" />
+    <Content Include="bin\MVC_LinkTuBe.dll" />
+    <Content Include="bin\MVC_LinkTuBe.pdb" />
+    <Content Include="bin\vpro.functions.dll" />
+    <Content Include="Calendar\calendarStyle.css" />
+    <Content Include="Calendar\images\btn_calendar.gif" />
+    <Content Include="Calendar\images\cal_nextMonth.gif" />
+    <Content Include="Calendar\images\cal_prevMonth.gif" />
+    <Content Include="Calendar\pickerAndCalendar.ascx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Master\Default.Master" />
+    <Content Include="KeepAlive.ashx" />
+    <Content Include="Master\Site.Master" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Service References\CheckBill\wstrackandtrace.disco" />
+    <None Include="Service References\CheckBill\configuration91.svcinfo" />
+    <None Include="Service References\CheckBill\configuration.svcinfo" />
+    <None Include="Service References\CheckBill\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Robots.txt" />
+    <Content Include="sitemap.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="UIs\BoDem_TruyCap.ascx" />
+    <Content Include="UIs\Link_Hot.ascx" />
+    <Content Include="UIs\list_cat.ascx" />
+    <Content Include="UIs\support.ascx" />
+    <Content Include="UIs\footer.ascx" />
+    <Content Include="UIs\header.ascx" />
+    <Content Include="UIs\IndexLeft.ascx" />
+    <Content Include="UIs\IndexRight.ascx" />
+    <Content Include="UIs\list-garrely.ascx" />
+    <Content Include="UIs\list-product.ascx" />
+    <Content Include="UIs\listnews.ascx" />
+    <Content Include="UIs\main.ascx" />
+    <Content Include="UIs\menu.ascx" />
+    <Content Include="UIs\news-details.ascx" />
+    <Content Include="UIs\path.ascx" />
+    <Content Include="UIs\product-details.ascx" />
+    <Content Include="UIs\search-result.ascx" />
+    <Content Include="UIs\slider.ascx" />
+    <Content Include="UIs\toolbar.ascx" />
+    <Content Include="vi-vn\Ajax\Addtocart.js" />
+    <Content Include="vi-vn\Ajax\Ajax-prohighlight.js" />
+    <Content Include="vi-vn\Ajax\Ajax-scroll.js" />
+    <Content Include="vi-vn\Ajax\Ajaxcate.js" />
+    <Content Include="vi-vn\Ajax\Ajaxcomplete.js" />
+    <Content Include="vi-vn\Ajax\Ajaxlike.js" />
+    <Content Include="vi-vn\Ajax\Ajaxsosanh.js" />
+    <Content Include="vi-vn\Ajax\Checkvalid.js" />
+    <Content Include="vi-vn\Ajax\Email.js" />
+    <Content Include="vi-vn\Ajax\login.js" />
+    <Content Include="vi-vn\CImage.aspx" />
+    <Content Include="vi-vn\click_quangcao.aspx" />
+    <Content Include="vi-vn\Complete-Ajax.asmx" />
+    <Content Include="vi-vn\Complete\jquery-ui-1.10.4.custom.min.css" />
+    <Content Include="vi-vn\Complete\jquery-ui-1.10.4.custom.min.js" />
+    <Content Include="vi-vn\contact.aspx" />
+    <Content Include="vi-vn\fonts\flexslider-icon.svg" />
+    <Content Include="vi-vn\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="vi-vn\fonts\MyriadPro-BoldCond.svg" />
+    <Content Include="vi-vn\fonts\UTMAvo.svg" />
+    <Content Include="vi-vn\fonts\UTMImpact.svg" />
+    <Content Include="vi-vn\Home.aspx" />
+    <Content Include="vi-vn\images\arrows.png" />
+    <Content Include="vi-vn\images\arrow_s.png" />
+    <Content Include="vi-vn\images\back_to_top.jpg" />
+    <Content Include="vi-vn\images\bg.png" />
+    <Content Include="vi-vn\images\bgBottommain.png" />
+    <Content Include="vi-vn\images\bgFooter.png" />
+    <Content Include="vi-vn\images\bgHeading.jpg" />
+    <Content Include="vi-vn\images\bgliHovera.png" />
+    <Content Include="vi-vn\images\bgRightHeading.png" />
+    <Content Include="vi-vn\images\bgSlide.png" />
+    <Content Include="vi-vn\images\bgTransWhite.png" />
+    <Content Include="vi-vn\images\bullets.png" />
+    <Content Include="vi-vn\images\captcha.jpg" />
+    <Content Include="vi-vn\images\controls.png" />
+    <Content Include="vi-vn\images\en.gif" />
+    <Content Include="vi-vn\images\fancybox.png" />
+    <Content Include="vi-vn\images\fancybox_sprite.png" />
+    <Content Include="vi-vn\images\iconSearch.png" />
+    <Content Include="vi-vn\images\iconTigia.png" />
+    <Content Include="vi-vn\images\likePro.png" />
+    <Content Include="vi-vn\images\li_f.png" />
+    <Content Include="vi-vn\images\loading.gif" />
+    <Content Include="vi-vn\images\phone.png" />
+    <Content Include="vi-vn\images\p_close.gif" />
+    <Content Include="vi-vn\images\Send-e.png" />
+    <Content Include="vi-vn\images\Send.png" />
+    <Content Include="vi-vn\images\sk.png" />
+    <Content Include="vi-vn\images\social_icon.png" />
+    <Content Include="vi-vn\images\social_network.jpg" />
+    <Content Include="vi-vn\images\tabbg.gif" />
+    <Content Include="vi-vn\images\vi.gif" />
+    <Content Include="vi-vn\images\yh.png" />
+    <Content Include="vi-vn\images\zalo.png" />
+    <Content Include="vi-vn\modalbox\all_index.css" />
+    <Content Include="vi-vn\modalbox\login_popup.css" />
+    <Content Include="vi-vn\page_default.aspx" />
+    <Content Include="vi-vn\scripts\bxslider.js" />
+    <Content Include="vi-vn\scripts\cloud-zoom.js" />
+    <Content Include="vi-vn\scripts\fancybox.js" />
+    <Content Include="vi-vn\scripts\jquery.min.1.11.2.js" />
+    <Content Include="vi-vn\scripts\jquery.nivo.slider.js" />
+    <Content Include="vi-vn\scripts\js.js" />
+    <Content Include="vi-vn\scripts\scrolltopcontrol.js" />
+    <Content Include="vi-vn\scripts\tabcontent.js" />
+    <Content Include="vi-vn\styles\bxslider.css" />
+    <Content Include="vi-vn\styles\cart.css" />
+    <Content Include="vi-vn\styles\checkout.css" />
+    <Content Include="vi-vn\styles\cloud-zoom.css" />
+    <Content Include="vi-vn\styles\css.css" />
+    <Content Include="vi-vn\styles\detailNews.css" />
+    <Content Include="vi-vn\styles\detailPro.css" />
+    <Content Include="vi-vn\styles\fancybox.css" />
+    <Content Include="vi-vn\styles\glyphicon.css" />
+    <Content Include="vi-vn\styles\navx.css" />
+    <Content Include="vi-vn\styles\nivo-slider.css" />
+    <Content Include="vi-vn\styles\styles.css" />
+    <Content Include="vi-vn\styles\tabcontent.css" />
+    <Content Include="vi-vn\styles\toolbar.css" />
+    <Content Include="vi-vn\styles\Untitled-3.css" />
+    <Content Include="vi-vn\thongbaoloi.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calendar\pickerAndCalendar.ascx.cs">
+      <DependentUpon>pickerAndCalendar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Calendar\pickerAndCalendar.ascx.designer.cs">
+      <DependentUpon>pickerAndCalendar.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Checkcookie.cs" />
+    <Compile Include="Components\clsFormat.cs" />
+    <Compile Include="Components\Getcookie.cs" />
+    <Compile Include="Components\Pageindex_chage.cs" />
+    <Compile Include="Components\RandomImage.cs" />
+    <Compile Include="Components\SendMail.cs" />
+    <Compile Include="Components\setCookieDevice.cs" />
+    <Compile Include="Components\setCookieLike.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="KeepAlive.ashx.cs">
+      <DependentUpon>KeepAlive.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Default.Master.cs">
+      <DependentUpon>Default.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master\Default.Master.designer.cs">
+      <DependentUpon>Default.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Master.Master.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master\Master.Master.designer.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Master\Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\CheckBill\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\BoDem_TruyCap.ascx.cs">
+      <DependentUpon>BoDem_TruyCap.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\BoDem_TruyCap.ascx.designer.cs">
+      <DependentUpon>BoDem_TruyCap.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\Link_Hot.ascx.cs">
+      <DependentUpon>Link_Hot.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\Link_Hot.ascx.designer.cs">
+      <DependentUpon>Link_Hot.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\list_cat.ascx.cs">
+      <DependentUpon>list_cat.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\list_cat.ascx.designer.cs">
+      <DependentUpon>list_cat.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\support.ascx.cs">
+      <DependentUpon>support.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\support.ascx.designer.cs">
+      <DependentUpon>support.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\footer.ascx.cs">
+      <DependentUpon>footer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\footer.ascx.designer.cs">
+      <DependentUpon>footer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\header.ascx.cs">
+      <DependentUpon>header.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\header.ascx.designer.cs">
+      <DependentUpon>header.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\IndexLeft.ascx.cs">
+      <DependentUpon>IndexLeft.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\IndexLeft.ascx.designer.cs">
+      <DependentUpon>IndexLeft.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\IndexRight.ascx.cs">
+      <DependentUpon>IndexRight.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\IndexRight.ascx.designer.cs">
+      <DependentUpon>IndexRight.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\list-garrely.ascx.cs">
+      <DependentUpon>list-garrely.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\list-garrely.ascx.designer.cs">
+      <DependentUpon>list-garrely.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\list-product.ascx.cs">
+      <DependentUpon>list-product.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\list-product.ascx.designer.cs">
+      <DependentUpon>list-product.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\listnews.ascx.cs">
+      <DependentUpon>listnews.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\listnews.ascx.designer.cs">
+      <DependentUpon>listnews.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\main.ascx.cs">
+      <DependentUpon>main.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\main.ascx.designer.cs">
+      <DependentUpon>main.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\menu.ascx.cs">
+      <DependentUpon>menu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\menu.ascx.designer.cs">
+      <DependentUpon>menu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\news-details.ascx.cs">
+      <DependentUpon>news-details.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\news-details.ascx.designer.cs">
+      <DependentUpon>news-details.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\path.ascx.cs">
+      <DependentUpon>path.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\path.ascx.designer.cs">
+      <DependentUpon>path.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\product-details.ascx.cs">
+      <DependentUpon>product-details.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\product-details.ascx.designer.cs">
+      <DependentUpon>product-details.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\search-result.ascx.cs">
+      <DependentUpon>search-result.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\search-result.ascx.designer.cs">
+      <DependentUpon>search-result.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\slider.ascx.cs">
+      <DependentUpon>slider.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\slider.ascx.designer.cs">
+      <DependentUpon>slider.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UIs\toolbar.ascx.cs">
+      <DependentUpon>toolbar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UIs\toolbar.ascx.designer.cs">
+      <DependentUpon>toolbar.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="vi-vn\CImage.aspx.cs">
+      <DependentUpon>CImage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vi-vn\CImage.aspx.designer.cs">
+      <DependentUpon>CImage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="vi-vn\click_quangcao.aspx.cs">
+      <DependentUpon>click_quangcao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vi-vn\click_quangcao.aspx.designer.cs">
+      <DependentUpon>click_quangcao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="vi-vn\Complete-Ajax.asmx.cs">
+      <DependentUpon>Complete-Ajax.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="vi-vn\contact.aspx.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vi-vn\contact.aspx.designer.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="vi-vn\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vi-vn\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="vi-vn\page_default.aspx.cs">
+      <DependentUpon>page_default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vi-vn\page_default.aspx.designer.cs">
+      <DependentUpon>page_default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="vi-vn\thongbaoloi.aspx.cs">
+      <DependentUpon>thongbaoloi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vi-vn\thongbaoloi.aspx.designer.cs">
+      <DependentUpon>thongbaoloi.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\ComponentArt.UIFramework.lic" />
+    <None Include="Calendar\images\Thumbs.db" />
+    <None Include="Calendar\images\vssver2.scc" />
+    <None Include="Logfiles\Error.log" />
+    <None Include="Logfiles\vssver2.scc" />
+    <Content Include="Master\Master.Master" />
+    <None Include="Service References\CheckBill\wstrackandtrace.wsdl" />
+    <None Include="vi-vn\fonts\flexslider-icon.eot" />
+    <None Include="vi-vn\fonts\flexslider-icon.ttf" />
+    <None Include="vi-vn\fonts\flexslider-icon.woff" />
+    <None Include="vi-vn\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="vi-vn\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="vi-vn\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="vi-vn\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="vi-vn\fonts\MyriadPro-BoldCond.eot" />
+    <None Include="vi-vn\fonts\MyriadPro-BoldCond.ttf" />
+    <None Include="vi-vn\fonts\MyriadPro-BoldCond.woff" />
+    <None Include="vi-vn\fonts\UTMAvo.eot" />
+    <None Include="vi-vn\fonts\UTMAvo.otf" />
+    <None Include="vi-vn\fonts\UTMAvo.ttf" />
+    <None Include="vi-vn\fonts\UTMAvo.woff" />
+    <None Include="vi-vn\fonts\UTMImpact.otf" />
+    <None Include="vi-vn\fonts\UTMImpact.ttf" />
+    <None Include="vi-vn\fonts\UTMImpact.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controller\Controller.csproj">
+      <Project>{CE1DABDD-1283-4F83-98FB-AFF7BBFAFFB1}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{A559BB6D-EC09-4E9B-88C3-40893DF23721}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\CheckBill\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ajax\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>21417</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

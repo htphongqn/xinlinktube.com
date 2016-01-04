@@ -1,0 +1,51 @@
+﻿/*Nav Desktop*/
+.navx { position: relative; z-index: 9999999; }
+.menu-top { background: #CC181E; padding: 0; margin-bottom: 10px; padding-top: 3px; background: url(../images/nav-bg.jpg) top; background-size: auto 100%; padding-bottom: 1px }
+.navx ul { list-style: none; padding: 0px; margin: 0px; }
+.navx a { text-decoration: none; white-space: nowrap; color: #fff }
+.navx h3,
+.navx h4,
+.navx h5 { font-weight: normal; margin: 0; padding: 0; font-size: 1em; }
+.w3-opennav { margin-left: 20px }
+.navx>ul>li { position: relative;}
+ @media (min-width:992px) {
+.w3-closenav,
+.w3-opennav { display: none !important }
+.navx { position: relative; display: inline-block; float: left; padding: 0; width: 100% }
+.navx>ul { clear: both; display: block; width: 100%; text-align: left }
+.navx>ul>li { display: inline-block; padding: 0; margin: 0; text-align: center; background: #323031; }
+.navx>ul>li{ -webkit-transition: background 0.3s; transition: background 0.3s; }
+.navx>ul>li> .lv >a { color: #fff; font-size: 1.3em; line-height: 40px; padding-left: 30px; padding-right: 30px; font-family: RobotoCondensedLight, Arial, Helvetica, sans-serif; text-align: center }
+.navx>ul>li> .lv >a i { display: inline }
+.navx>ul>li.active,
+.navx>ul>li:hover,
+.navx>ul>li:focus { background: #292929 ;}
+.navx>ul>li:hover> .lv > a,
+.navx>ul>li.active> .lv > a,
+.navx>ul>li:focus> .lv > a { color: #fff }
+.navx>ul>li:first-child i {font-size: 20px; }
+.navx>ul>li:last-child { }
+.navx ul ul { display: none; position: absolute; background: #292929; }
+.navx ul ul li { position: relative; min-width: 190px; text-align: left; border-bottom: solid 1px #343434; }
+.navx ul ul a { line-height: 35px; padding-right: 10px; padding-left: 10px; color: #fff; font-family: Arial, Helvetica, sans-serif }
+.navx ul ul li:last-child { border: 0; }
+.navx ul ul li:hover { background: #fff }
+.navx ul ul li:hover> .lv > a { color: #000; }
+.navx > ul > li > ul { top: 100%; left: 0; margin-top: 0px; z-index: 9; }
+.navx ul ul ul { left: 100%; top: 0px; z-index: 7; display: none !important }
+.navx ul li:hover>ul { display: block; }
+}
+@media (max-width:991px) {
+.navx { position: absolute; top: 0; left: 0; display: none; z-index: 9999999; background: #333; color: #fff }
+.navx>ul>li>a { padding-left: 15px; padding-right: 15px; color: #fff }
+.navx >ul>li { float: none; border: 0; margin: 0; text-align: left; width: 100%; display: inline-block; padding-top: 10px; padding-bottom: 10px; border-bottom: solid 1px #ccc; }
+.navx>ul>li:first-child { }
+.navx ul ul { display: none; }
+.navx ul ul li{ padding-top:7px;padding-bottom:7px; }
+.navx >ul> li >i { position: absolute; right: 0; top: 5px; line-height: 30px; width: 40px; border-left: solid 2px #fff; text-align: center; color: #fff }
+.yl h3 a{ background:#D73F41}
+}
+.caret-navx { position: absolute; bottom: 0; right: 0; background: url(../images/caret-navx.png) right bottom; height: 15px; width: 15px; }
+.caretB { display: inline-block; width: 0; height: 0; vertical-align: middle; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 5px solid; color: #A2DBF7; position: absolute; top: -5px; left: 30% }
+.navx .animated { -webkit-animation-duration: 0.2s; animation-duration: 0.2s; }
+

@@ -1,0 +1,109 @@
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\vpro.eshop.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\vpro.eshop.cpanel\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\vpro.eshop.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\vpro.eshop.cpanel\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\SOURCE_SEO_NOFULL_QUYTRINH\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\BAO VE YUKI\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\BAO VE YUKI\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\BAO VE YUKI\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\BAO VE YUKI\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\BAO VE YUKI\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\THACH PHUONG\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\THACH PHUONG\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\THACH PHUONG\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\THACH PHUONG\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\THACH PHUONG\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\NIEM TIN NHANH\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\NIEM TIN NHANH\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\NIEM TIN NHANH\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\NIEM TIN NHANH\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\NIEM TIN NHANH\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\247 EXPRESS\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\247 EXPRESS\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\TRUONGNT\SOURCE\247 EXPRESS\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\TRUONGNT\SOURCE\247 EXPRESS\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\TRUONGNT\SOURCE\247 EXPRESS\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\cuamientrung.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\cuamientrung.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\cuamientrung.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\cuamientrung.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\cuamientrung.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\Vesinh.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\Vesinh.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\Vesinh.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\Vesinh.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\Vesinh.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\BaoBiHungDung.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\BaoBiHungDung.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\BaoBiHungDung.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\BaoBiHungDung.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\BaoBiHungDung.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\hoangha.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\hoangha.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\hoangha.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\hoangha.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\hoangha.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\NhanThuanThanh.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\NhanThuanThanh.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\NhanThuanThanh.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\NhanThuanThanh.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\NhanThuanThanh.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\phuankhang.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\phuankhang.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\phuankhang.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\phuankhang.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\phuankhang.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\behocgioi.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\behocgioi.com\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\behocgioi.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\behocgioi.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\behocgioi.com\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\haisanlangchai2015\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\haisanlangchai2015\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\102015\haisanlangchai2015\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\102015\haisanlangchai2015\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\102015\haisanlangchai2015\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\112015\daigiakhang\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\112015\daigiakhang\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\112015\daigiakhang\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\112015\daigiakhang\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\112015\daigiakhang\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\122015\hatkhobinhduong\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\122015\hatkhobinhduong\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\122015\hatkhobinhduong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\122015\hatkhobinhduong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\122015\hatkhobinhduong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\website\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\website\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\website\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\website\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\website\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\WEB\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\LinhKienNguyenLong\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\giatSofaGiaRe\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\giatSofaGiaRe\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\giatSofaGiaRe\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\WEB\122015\giatSofaGiaRe\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\giatSofaGiaRe\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\giatghesofahcm\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\giatghesofahcm\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\giatghesofahcm\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\WEB\122015\giatghesofahcm\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\giatghesofahcm\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\VuongTung\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\VuongTung\CpanelNew\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+D:\quandkm\WEB\122015\VuongTung\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+D:\quandkm\WEB\122015\VuongTung\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+D:\quandkm\WEB\122015\VuongTung\CpanelNew\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb
+E:\DuAnLinkTuBe\WEB_LinkTuBe\CpanelNew_WEB_LinkTuBe\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.dll
+E:\DuAnLinkTuBe\WEB_LinkTuBe\CpanelNew_WEB_LinkTuBe\vpro.eshop.cpanel\bin\vpro.eshop.cpanel.pdb
+E:\DuAnLinkTuBe\WEB_LinkTuBe\CpanelNew_WEB_LinkTuBe\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.csprojResolveAssemblyReference.cache
+E:\DuAnLinkTuBe\WEB_LinkTuBe\CpanelNew_WEB_LinkTuBe\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.dll
+E:\DuAnLinkTuBe\WEB_LinkTuBe\CpanelNew_WEB_LinkTuBe\vpro.eshop.cpanel\obj\Debug\vpro.eshop.cpanel.pdb

@@ -1,0 +1,10 @@
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\obj\Debug\vungtung.csprojResolveAssemblyReference.cache
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\obj\Debug\MVC_Kutun.dll.licenses
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\obj\Debug\MVC_Kutun.dll
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\bin\MVC_Kutun.dll
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\bin\MVC_Kutun.pdb
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\bin\Controller.dll
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\bin\Model.dll
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\bin\Controller.pdb
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\bin\Model.pdb
+D:\quandkm\WEB\122015\VuongTung\VuongTung\MVC_Kutun\obj\Debug\MVC_Kutun.pdb
